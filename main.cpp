@@ -1,5 +1,5 @@
 #include <iostream>
-#include "hpp/PointerGuard.hpp"
+#include "PointerGuard.hpp"
 
 int main()
 {
